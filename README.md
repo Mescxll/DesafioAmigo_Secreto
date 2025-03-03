@@ -3,6 +3,9 @@ Uma aplicação interativa para o sorteio de um "Amigo Secreto", onde é possív
 
 💻 Status: Finalizado.
 
+### Acesse o Projeto
+https://mescxll.github.io/DesafioAmigo_Secreto/
+
 ### Funcionalidades
 - Adicionar nomes: Os usuários escreverão o nome de um amigo em um campo de texto e o adicionarão a uma lista visível ao clicar em "Adicionar".
 
